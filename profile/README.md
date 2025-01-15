@@ -15,7 +15,7 @@
 
 | Name                   | Student ID  |
 |------------------------|-------------|
-| Muhammad Syauqi Frizman        | 2501976453 | 
+| MUHAMMAD SYAUQI FRIZMAN        | 2501976453 | 
 | KEVIN AURELIAN NATHANIELLE UNTUNG WIDJAJA | 2540117501 | 
 | RAIHAN ELTA         | 2501996013 | 
 
